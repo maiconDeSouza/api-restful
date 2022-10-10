@@ -10,18 +10,18 @@ src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/API-Restful/a
 <h2>Sobre o projeto</h2>
 
 <p>
-O core do projeto foi criar uma <strong>Api Restful</strong>.</p>
+	O core do projeto foi criar uma <strong>Api Restful</strong>.</p>
 <p>
-Um Crud salvando as informações no MongoDB o Front é básico feito em HTML apenas para testar a API.
+	Foi construido um Crud completo que salva as informações em um Banco de Dados MongoDB, o Front é básico feito em HTML apenas para testar a API.
 </p>
 <img 
 src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/API-Restful/crud.gif"
 />
 <p>
- O Interessante em desenvolver uma API é que você consegue que seu backend converse com vários dispositivos diferentes (por exemplo, Website e Apps de celular), porque você retorna como resposta da requisições um único formato de arquivos para ambos os dispositivos (por exemplo, JSON).
+ 	O Interessante em desenvolver uma API é que você consegue que seu backend converse com vários dispositivos diferentes (por exemplo, Website e Apps de celular), porque você retorna como resposta da requisições um único formato de arquivos (por exemplo, JSON) para ambos os dispositivos.
 </p>
 <p>
- Neste projeto eu segui eu os padrões Rest (Representational State Transfer) e é um tipo de arquitetura de software. Uma REST indica então um conjunto de restrições que devem ser seguidas no desenvolvimento de uma aplicação na internet.
+ Neste projeto eu segui os padrões Rest (Representational State Transfer) que é um tipo de arquitetura de software. Uma REST indica então um conjunto de restrições que devem ser seguidas no desenvolvimento de uma aplicação na internet.
 </p>
 <p>
 Estas regras permitem o desenvolvimento de uma aplicação com interface bem definida, com rotinas padronizadas e facilmente representadas, que facilitam a comunicação entre máquinas e usuários.
